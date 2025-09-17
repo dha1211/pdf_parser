@@ -20,3 +20,9 @@ Install following python packages:
 
 run the pip command on command prompt or terminal to install the libraries.
 eg. pip install camelot
+
+To run the file run following command:
+python pdf_to_json.py "sample_data.pdf" output.json
+
+This command will give input as pdf file and parsed output will be saved in json file.
+
